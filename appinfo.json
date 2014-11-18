@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "tiedor@hotmail.it",
+    "longName": "TiedorFitnessTracker",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/ic_launcher - black.png",
+                "menuIcon": true,
+                "name": "MENU_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "TFitTrack",
+    "uuid": "7a5584b3-3caa-4517-a756-908071247c4a",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
